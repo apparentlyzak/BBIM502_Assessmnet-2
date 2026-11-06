@@ -1,0 +1,11 @@
+LANGHAM HOTEL ROOM ALLOCATIONS
+Saved: 2026-11-06 22:25:32
+
+Room number: 101
+Customer number: c001
+Customer name: adi
+Check-in date: 2026-11-06
+Checkout date: 2026-11-09
+Nights: 3
+Agreed nightly rate: NZD $150.00
+----------------------------------------
